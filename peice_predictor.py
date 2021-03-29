@@ -21,9 +21,4 @@ def predict(probabilities):
     else:
         return 'Black ' + peices[name[1]]
 
-
-
-
-
-
-     
+    
